@@ -1,7 +1,7 @@
 # Titanic_Classification
 Content of The Titanic Exploratory Data Analysis
 
-!) Data Load and Check
+1) Data Load and Check
    1) Outlier Detection
    2) Joining Test and Train Data
    3) Feature Check
